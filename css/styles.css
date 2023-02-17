@@ -132,7 +132,7 @@ body{
     color: var(--azul-botao);
 }
 .lista__link a:active{
-    color: #9c39e8;
+    color: #a33fef;
 }
 .container__botao:hover{
     background-color: var(--boatao-azul-efeito);
